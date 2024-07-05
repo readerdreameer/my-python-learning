@@ -1,0 +1,96 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Jun 27 11:20:56 2024
+
+@author: azizb
+"""
+
+#avtolar = ["cobalt","matiz","bmw","gentra"]
+#for avto in avtolar :
+ #if avto =="bmw":
+  # print(avto.upper())
+ #else :
+   #print(avto.title())
+#ism = (input("ismingiz nma?\n~"))
+#if ism.lower() != "ali":
+ #   print(f"uzur {ism.title()} biz Alini kutyapmiz")
+#else :
+    #print("Salom Ali")
+#javob = float(input("12x6 nechchiga teng"))
+#if javob!=72:  
+ #print("Javobingiz hato")
+#yosh = int(input("Yoshingiz nechchida?\n~"))   
+#if yosh>=18 :
+ #print("Xush kelibsiz")
+#else:    
+ #print("Sizga kirish mumkin emas")
+#login = input("Loginningizni kiriting !")
+#if len(login)>=5:
+# print("Davom eting")
+#else:
+ #print("login 5 yoki unda ko'proq harfdan iborat bolishi kerak!")
+#yil = int(input("Tug'ilgan yilingizni kiriting\n~"))
+#if 2024-yil<18:
+ #print(f"Sizning yoshingiz {2024-yil} da ekan")
+ #print("Sizga ushbu videoni ko'rish taqiqlanadi")
+#else:
+# print("Maroqli tomosha")
+#age = int(input("Yoshimgiz nechchida?"))
+#if age>=65: print("Siz COVID-19 risk guruhida ekansz!")
+#x,y = 55,50
+#print("x>Y") if x>y else print("x<y")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
